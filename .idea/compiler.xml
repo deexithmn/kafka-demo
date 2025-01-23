@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="simple-open-search" />
         <module name="kafka-basics" />
+        <module name="kafka-wikimedia" />
+        <module name="kafka-open-search-consumer" />
       </profile>
     </annotationProcessing>
   </component>

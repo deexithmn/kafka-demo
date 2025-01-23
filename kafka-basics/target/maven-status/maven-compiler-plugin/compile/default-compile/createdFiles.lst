@@ -1,5 +1,6 @@
 com/kafka_basics/User$Builder.class
 com/kafka_basics/User.class
+com/kafka/demo/UserConsumer.class
 com/kafka/demo/ProducerDemo.class
 com/kafka/demo/ConsumerDemo.class
 com/kafka/demo/UserProducer.class

@@ -16,12 +16,20 @@
                 <configuration>
                     <source>16</source>
                     <target>16</target>
+                    <basedir/>
+                    <buildDirectory/>
+                    <mainOutputDirectory/>
+                    <outputDirectory/>
+                    <projectArtifact/>
                 </configuration>
             </plugin>
         </plugins>
     </build>
     <modules>
         <module>kafka-basics</module>
+        <module>kafka-wikimedia</module>
+        <module>kafka-open-search-consumer</module>
+        <module>simple-open-search</module>
     </modules>
 
     <properties>
